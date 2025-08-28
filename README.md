@@ -1,6 +1,6 @@
 # Recipe App 🍲
 
-A **MERN stack recipe application** to create, view, and manage recipes with ingredients, instructions, and images.
+A **MERN stack recipe simple application** to create, view, and manage recipes with ingredients, instructions, and images.
 
 ---
 
